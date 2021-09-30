@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SimpleNewsLocal-IOT</string>
+    <string name="title_one">5 Tips Every Android Developer Should Know</string>
+    <string name="description_one">Starting Android Development is easy, but having some tips is always better. I wrote some tips in this post to help you make your Android Development journey more better. These 5 tips every Android Developer should know</string>
+
+    <string name="title_two">Why we should use Android Bundle for value-passing instead of Intent?</string>
+    <string name="description_two">According to common usage, developers prefer to pass data with Intent, but there is better and less code way to pass data between Activities by using Bundle in Android</string>
+
+    <string name="title_three">Android App Coding Best Practices | 10 Points</string>
+    <string name="description_three">1. Choose Naming Convention Wisely
+The idea is that “code should explain itself”
+Naming Convention is the first thing comes into my mind when creating any file and also plays an important role in long term maintenance of a project, So if used properly it reduce the effort needed to read and understand source code.</string>
+
+    <string name="title_four">Paging3 — Doing Recyclerview Pagination the Right Way</string>
+    <string name="description_four">Jetpack Paging library release version 3.0.0-alpha03 is full of new features and is Kotlin first with a pinch of Coroutines &amp; Flow 😊.</string>
+
+    <string name="title_five">Android memory leaks by Programmer’s mistake</string>
+    <string name="description_five">When we develop android apps we often encounter memory leaks and If we don’t know what is memory leak and how to handle this, then it becomes a very tedious task to handle.</string>
+
+    <string name="title_six">Don’t abuse Kotlin’s scope functions</string>
+    <string name="description_six">Scope functions
+Kotlin’s standard library contains several functions whose sole purpose is to execute a block of code within the context of an object.
+When you call such a function on an object with a lambda expression provided, it forms a temporary scope.</string>
+
+    <string name="title_seven">Enhance your android App with Custom View</string>
+    <string name="description_seven">When you start the android development, you are discovering the many UI components already existing in the Android SDK (TextView, Layout, ImageView, … ).</string>
+
+    <string name="title_eight">Coroutines in Just 5 Minutes | Complete Android Coroutine Best Practices</string>
+    <string name="description_eight">“The beautiful thing about learning is that nobody can take it away from you.” — B.B. King</string>
+
+    <string name="title_nine">RecyclerView in a better exhaustive way (Kotlin only)</string>
+    <string name="description_nine">The UiModel has an id that represents its uniqueness, title will be using on both header and title type whereas the description only uses in the ITEM_TYPE type.</string>
+
+    <string name="title_ten">Kotlin: Sealed Classes for better handling of API Response</string>
+    <string name="description_ten">While working in Java to represent a fixed set of constants, a classic choice was to use an enum. An enum type is a special data type that enables a variable to be a set of predefined constants. The variable must be equal to one of the values that have been predefined for it.</string>
+</resources>
